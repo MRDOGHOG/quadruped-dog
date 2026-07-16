@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-07082025-017578";"";
+"REFERENCE";"B0429";"";
+"TraceParts.PartTitle";"Jetson Camera/Arducam 2.3MP AR0234 Color Global Shutter Camera";"";
+"TraceParts.InstanceId";"90-07082025-01757878P2ST6ENTHNY6M228NL8S6AD";"";
+"SUPPLIER";"Arducam Technology";"";
+"DESIGN";"Jetson Camera/Arducam 2.3MP AR0234 Color Global Shutter Camera";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

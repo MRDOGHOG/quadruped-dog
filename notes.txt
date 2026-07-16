@@ -1,0 +1,16 @@
+Some sensor recomendations :
+Benewake TFmini-S Lidar
+Get the Benewake TFmini-S
+https://en.benewake.com/TFminiPlus/index.html
+
+
+
+For Cameras this looks good
+https://www.arducam.com/arducam-2-3mp2-ar0234-color-global-shutter-synchronized-stereo-camera-bundle-kit-for-raspberry-pi.html
+
+And I want a BMI088 in the flat board configuration
+
+wifi card for raspberry pi 5
+
+PCIe to M.2 Adapter:
+Intel Wi-Fi 6E AX210
